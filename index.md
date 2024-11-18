@@ -25,7 +25,9 @@ The major fields that intrest me are
 
 
 ## Contact 
-📍: Hostel 4 Lohit, MNIT Jaipur
-📞: +91 XXXXXXXXXX
-✉️ : rushiljain132@gmail.com
+📍: Hostel 4 Lohit, MNIT Jaipur 
 
+📞: +91 XXXXXXXXXX
+
+✉️ : rushiljain132@gmail.com
+ 
