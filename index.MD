@@ -2,7 +2,9 @@
 
 My name is Rushil Jain and I'm a young enthusiastic techie who loves to code and is very much intrested in problem solving as well as robotics.
 ## Education:
-**I'm currently purusing a Bachelors in Technology in Computer Science and Engineering from the Malaviya National Institute of Technology Jaipur, Rajasthan.**
+**I'm currently pursuing a Bachelors in Technology in Computer Science and Engineering from the Malaviya National Institute of Technology Jaipur, Rajasthan.**
+
+![]https://cdec.mnit.ac.in/images/slider-images/slider1.jpg
 
 ## Intrests
 The major fields that intrest me are 
